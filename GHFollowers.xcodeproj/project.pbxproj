@@ -15,6 +15,7 @@
 		CA3D849C293EFABB00F0200F /* FavoritesListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA3D849B293EFABB00F0200F /* FavoritesListVC.swift */; };
 		CA3D849E294034C300F0200F /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA3D849D294034C300F0200F /* GFButton.swift */; };
 		CA3D84A029403E0F00F0200F /* GFTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA3D849F29403E0F00F0200F /* GFTextField.swift */; };
+		CA3D84A229418EE500F0200F /* FollowerListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA3D84A129418EE500F0200F /* FollowerListVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		CA3D849B293EFABB00F0200F /* FavoritesListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesListVC.swift; sourceTree = "<group>"; };
 		CA3D849D294034C300F0200F /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
 		CA3D849F29403E0F00F0200F /* GFTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTextField.swift; sourceTree = "<group>"; };
+		CA3D84A129418EE500F0200F /* FollowerListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerListVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				CA3D849B293EFABB00F0200F /* FavoritesListVC.swift */,
 				CA3D849D294034C300F0200F /* GFButton.swift */,
 				CA3D849F29403E0F00F0200F /* GFTextField.swift */,
+				CA3D84A129418EE500F0200F /* FollowerListVC.swift */,
 				CA3D848E293EF35200F0200F /* Assets.xcassets */,
 				CA3D8490293EF35200F0200F /* LaunchScreen.storyboard */,
 				CA3D8493293EF35200F0200F /* Info.plist */,
@@ -147,6 +150,7 @@
 				CA3D849C293EFABB00F0200F /* FavoritesListVC.swift in Sources */,
 				CA3D849E294034C300F0200F /* GFButton.swift in Sources */,
 				CA3D849A293EFA7700F0200F /* SearchVC.swift in Sources */,
+				CA3D84A229418EE500F0200F /* FollowerListVC.swift in Sources */,
 				CA3D8486293EF35000F0200F /* AppDelegate.swift in Sources */,
 				CA3D8488293EF35000F0200F /* SceneDelegate.swift in Sources */,
 			);
