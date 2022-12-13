@@ -74,7 +74,7 @@ class SearchVC: UIViewController {
         NSLayoutConstraint.activate([
             usernameTextField.topAnchor.constraint(equalTo: logoImageView.bottomAnchor, constant: 48),
             usernameTextField.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 50),
-            usernameTextField.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -50), // trailing/bottom constant must be negative #
+            usernameTextField.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -50), // trailing/bottom constant must be negative number
             usernameTextField.heightAnchor.constraint(equalToConstant: 50)
         ])
     }
